@@ -1,0 +1,161 @@
+.boxcenter{
+    width: 90%;
+    margin: 0px auto;
+}
+.boxleft{
+    float: left;
+    width: calc(70% - 20px);
+    min-height: 600px;
+    margin-right: 20px;
+}
+.boxright{
+    float: left;
+    width: 30%;
+    min-height: 600px;
+}
+
+hr{
+    clear: both;
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 9pt;
+}
+a:hover{
+    color: aqua;
+}
+p{
+    font-size: 15pt;
+    text-align: left;
+    margin-right: 10px;
+    font-weight: 800;
+}
+.boxright img{
+    float: left;
+    width: 100%;
+}
+nav{
+   width: 100%;
+   float: left;
+   background-color: black;
+   border: 1px solid cyan;
+   padding: 0;  
+   margin: 0;
+
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 0px;
+    margin: 20px;
+}
+li>a:hover{
+    color: blue;
+}
+.tuade{
+    font-size: 25px;
+}
+.thumuc{
+   font-size: 20px;
+}
+.doan1{
+   font-size: 18px;
+}
+.indam1{
+    font-size: 20px;
+}
+.doan2{
+    font-size: 18px;
+    color: gray;
+}
+.clickinword{
+    font-size: 16px;
+}
+.webcon1anh1{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh1{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.doan3{
+    color: gray;
+    font-size: 18px;
+}
+.webcon1anh2{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh2{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.webcon1anh3{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh3{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.webcon1anh4{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh4{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.webcon1anh5{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh5{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.webcon1anh6{
+    width: 700px;
+    height: 407px;
+}
+.chuthichanh6{
+    text-align: center;
+    font-style: italic;
+    color: gray;
+}
+.from1{
+    text-align: right;
+    font-style: italic;
+    color: gray;
+}
+.from2{
+    text-align: right;
+    
+}
+.nextnews{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+}
+.tincon1{
+    font-size: 20px;
+}
+table{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tuadebang{
+    margin-left: auto;
+    margin-right: auto;   
+}
+td{
+    text-align: center;
+}

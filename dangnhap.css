@@ -1,0 +1,37 @@
+.boxcenter{
+    width: 80%;
+    margin: 0px auto;
+    position: absolute;
+}
+div .login{
+    width: 380px;
+    min-height: 400px;
+    position: relative;
+    top: 50px;
+    left: 45%;
+}   
+.submit{
+    background-color: rgb(68, 57, 134);
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(28, 11, 58);
+}
+.forgot{
+    text-decoration: none;
+    margin-left: 35%;
+}
+.text, .password, .submit{
+    width: 300px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+label, .submit{
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
